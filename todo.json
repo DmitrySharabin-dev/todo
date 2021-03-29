@@ -1,11 +1,11 @@
 {
 	"task": [
 		{
-			"done": true,
+			"done": false,
 			"taskTitle": "Code furiously"
 		},
 		{
-			"done": true,
+			"done": false,
 			"taskTitle": "Do user study"
 		},
 		{
